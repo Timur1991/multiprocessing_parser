@@ -1,4 +1,4 @@
-# learn_parser_plus_multiprocessing
+# multiprocessing_parser
 Learning parser using:
 -requests
 -BeautifulSoup
