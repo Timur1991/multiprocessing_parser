@@ -1,5 +1,7 @@
 # multiprocessing_parser
-Learning parser using:
+группа ВК помощи для начинающих python разработчиков: https://vk.com/happython
+
+Практикуем библиотеки для парсинга (+ вспомогательные):
 -requests
 -BeautifulSoup
 -Pool
